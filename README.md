@@ -1,1 +1,1 @@
-## Using python to create simple calculator
+## create simple calculator
